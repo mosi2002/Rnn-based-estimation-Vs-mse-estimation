@@ -1,6 +1,6 @@
 # Rnn-based-estimation-Vs-mse-estimation
 
-This repository contains an implementation of a Long Short-Term Memory (LSTM) model and MSE merhod for two-link arm.
+This repository contains an implementation of a Long Short-Term Memory (LSTM) model and MSE merhod for two-link arm. **[not completed]**
 
 
 # Model Details
