@@ -7,21 +7,9 @@ This repository contains an implementation of a Long Short-Term Memory (LSTM) mo
 
 Equation:
 
-\[
-\dot{x} = \begin{bmatrix}
-\theta_1 \\
-\theta_2 \\
-\frac{u_1 - \text{damping1} \cdot \theta_1}{I1} \\
-\frac{u_2 - \text{damping2} \cdot \theta_2}{I2}
-\end{bmatrix}
-\]
+![image](https://github.com/user-attachments/assets/ee703665-e9fc-4a62-a058-3615cb91482e)
+![image](https://github.com/user-attachments/assets/4a1639cc-5acf-4815-bef1-9d010562d29a)
 
-Where:
-- \(\theta_1\) and \(\theta_2\) are the angles of the first and second joints.
-- \(\dot{\theta}_1\) and \(\dot{\theta}_2\) are the angular velocities.
-- \(I1\) and \(I2\) are the moments of inertia of the first and second links.
-- \(u_1\) and \(u_2\) are the torques applied to the joints.
-- \(\text{damping1}\) and \(\text{damping2}\) are the damping coefficients.
 
 
 
