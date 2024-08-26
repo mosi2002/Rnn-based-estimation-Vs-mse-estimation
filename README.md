@@ -1,7 +1,7 @@
 # Rnn-based-estimation-Vs-mse-estimation
 
 This repository contains an implementation of a Long Short-Term Memory (LSTM) model and a method from this paper https://folk.ntnu.no/skoge/prost/proceedings/ifac2008/data/papers/1383.pdf for a chaotic system.
-also i should say as a reminder we use states (x) as a input so these methods can be compared!
+**also i should say as a reminder i used states (x) as a input so these methods can be compared!**
 
 
 # Model Details
