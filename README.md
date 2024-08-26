@@ -18,6 +18,6 @@ To use this code, you will need to install the following Python packages:
 pip install numpy tensorflow matplotlib scikit-learn
 ```
 
-1) run **MSE.ipynb** for mse state estimation.
-2) run **Rnn.ipynb** for machine learning based state estimation.
+1) run **MSE.ipynb** for mse state estimation. **Error for estimation: 0.11629922906012884**
+2) run **Rnn.ipynb** for machine learning based state estimation. **Error for estimation: 0.11629922906012884**
 
