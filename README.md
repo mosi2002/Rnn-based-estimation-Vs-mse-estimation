@@ -7,8 +7,8 @@ This repository contains an implementation of a Long Short-Term Memory (LSTM) mo
 
 Equation:
 
-![image](https://github.com/user-attachments/assets/ee703665-e9fc-4a62-a058-3615cb91482e)
-![image](https://github.com/user-attachments/assets/4a1639cc-5acf-4815-bef1-9d010562d29a)
+![image](https://github.com/user-attachments/assets/5c4c8615-31bc-4770-957e-6667dce302ff)
+
 
 # Usage 
 
