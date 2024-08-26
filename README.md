@@ -1,6 +1,6 @@
 # Rnn-based-estimation-Vs-mse-estimation
 
-This repository contains an implementation of a Long Short-Term Memory (LSTM) model and a merhod from this paper https://folk.ntnu.no/skoge/prost/proceedings/ifac2008/data/papers/1383.pdf for a chaotic system. **[not completed]**
+This repository contains an implementation of a Long Short-Term Memory (LSTM) model and a method from this paper https://folk.ntnu.no/skoge/prost/proceedings/ifac2008/data/papers/1383.pdf for a chaotic system. **[not completed]**
 
 
 # Model Details
